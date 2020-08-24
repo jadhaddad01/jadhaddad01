@@ -20,21 +20,21 @@ I'm a computer engineering student at the University of Ottawa.
 
 </details>
 <details>
-  <summary>:📱: App Dev</summary>
+  <summary>📱: App Dev</summary>
 
 </details>
 <details>
-  <summary>:💻: Web Dev</summary>
+  <summary>💻: Web Dev</summary>
 
 </details>
 <details>
-  <summary>:🎮: Game Dev</summary>
+  <summary>🎮: Game Dev</summary>
 
 </details>
 
 ---
 
-*NOTE: Top languages do not indicate my skill level in these languages, but they are metrics for the percentage of code written in my github*
+*NOTE: Top languages do not indicate my skill level in these languages, but they are metrics for the percentage of code written on github*
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jadhaddad01&show_icons=true&include_all_commits=true" alt="Jad's github stats" />
