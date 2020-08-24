@@ -2,7 +2,7 @@
 
 [<img align="left" alt="jadhaddad.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Jad Haddad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jad Haddad | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/gmail.svg" />][mail]
+<img href="mailto:jadmail01@gmail.com" align="left" alt="Jad Haddad | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/gmail.svg" />
 
 <br />
 <br />
@@ -47,4 +47,3 @@ I'm a computer engineering student at the University of Ottawa.
 
 [website]: https://jadhaddad.com
 [linkedin]: https://www.linkedin.com/in/jadhaddad01/
-[mail]: jadmail01@gmail.com
