@@ -63,7 +63,21 @@ I'm a computer engineering student at the University of Ottawa.
 </details>
 <details>
   <summary>📱: App Dev</summary>
-
+    <a href="https://flutter.dev/">
+        <img align="left" alt="Flutter" width="26px" src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4" />
+    </a>
+    <a href="https://developer.android.com/studio">
+        <img align="left" alt="Android Studio" width="26px" src="https://i.stack.imgur.com/9E2Gd.png" />
+    </a>
+    <br />
+    <br />
+    <a href="https://dart.dev/">
+        <img align="left" alt="Dart" width="26px" src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G_400x400.jpg" />
+    </a>
+    <a href="https://www.oracle.com/java/">
+        <img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/svg/226/226777.svg" />
+    </a>
+    <br />
 </details>
 <details>
   <summary>💻: Web Dev</summary>
