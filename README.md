@@ -1,11 +1,11 @@
 ### Hi there, I'm [Jad!](https://jadhaddad.com) 👋
-<a target="_blank" rel="noopener noreferrer" href="https://jadhaddad.com">
+<a href="https://jadhaddad.com">
     <img align="left" alt="jadhaddad.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
-<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jadhaddad01/">
+<a href="https://www.linkedin.com/in/jadhaddad01/">
     <img align="left" alt="Jad Haddad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" rel="noopener noreferrer" href="https://jadhaddad.com/#contact">
+<a href="https://jadhaddad.com/#contact">
     <img align="left" alt="Jad Haddad | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/gmail.svg" />
 </a>
 
@@ -22,43 +22,42 @@ I'm a computer engineering student at the University of Ottawa.
 **Languages and Tools:**  
 <details>
   <summary>:zap: Software Dev</summary>
-    <a target="_blank" rel="noopener noreferrer" href="https://www.python.org/">
+    <a href="https://www.python.org/">
         <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
     </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://www.oracle.com/java/">
+    <a href="https://www.oracle.com/java/">
         <img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/svg/226/226777.svg" />
     </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://golang.org/">
+    <a href="https://golang.org/">
         <img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
     </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://racket-lang.org/">
+    <a href="https://racket-lang.org/">
         <img align="left" alt="Racket" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/racket/racket.png" />
     </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://www.swi-prolog.org/">
+    <a href="https://www.swi-prolog.org/">
         <img align="left" alt="Prolog" width="26px" src="https://avatars0.githubusercontent.com/u/6884283?s=200&v=4" />
     </a>
     <br />
-    <br />
-    <a target="_blank" rel="noopener noreferrer" href="https://code.visualstudio.com/">
+    <a href="https://code.visualstudio.com/">
         <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
     </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://www.eclipse.org/">
+    <a href="https://www.eclipse.org/">
         <img align="left" alt="Eclipse" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/eclipse-icon.png" />
     </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://www.sublimetext.com/">
+    <a href="https://www.sublimetext.com/">
         <img align="left" alt="Sublime" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/sublimetext.svg" />
     </a>
     <br />
-    <br />
-    <a target="_blank" rel="noopener noreferrer" href="https://git-scm.com/">
+    <a href="https://git-scm.com/">
         <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
     </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/">
+    <a href="https://github.com/">
         <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
     </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://getfedora.org/">
+    <a href="https://getfedora.org/">
         <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
     </a>
+     <br />
 </details>
 <details>
   <summary>📱: App Dev</summary>
