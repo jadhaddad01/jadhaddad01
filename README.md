@@ -38,6 +38,7 @@ I'm a computer engineering student at the University of Ottawa.
         <img align="left" alt="Prolog" width="26px" src="https://avatars0.githubusercontent.com/u/6884283?s=200&v=4" />
     </a>
     <br />
+    <br />
     <a href="https://code.visualstudio.com/">
         <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
     </a>
@@ -48,6 +49,7 @@ I'm a computer engineering student at the University of Ottawa.
         <img align="left" alt="Sublime" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/sublimetext.svg" />
     </a>
     <br />
+    <br />
     <a href="https://git-scm.com/">
         <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
     </a>
@@ -57,7 +59,8 @@ I'm a computer engineering student at the University of Ottawa.
     <a href="https://getfedora.org/">
         <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
     </a>
-     <br />
+    <br />
+    <br />
 </details>
 <details>
   <summary>📱: App Dev</summary>
