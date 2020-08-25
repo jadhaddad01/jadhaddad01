@@ -1,8 +1,13 @@
 ### Hi there, I'm [Jad!](https://jadhaddad.com) 👋
-
-[<img align="left" alt="jadhaddad.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Jad Haddad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jad Haddad | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/gmail.svg" />][mail]
+<a target="_blank" rel="noopener noreferrer" href="https://jadhaddad.com">
+    <img align="left" alt="jadhaddad.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jadhaddad01/">
+    <img align="left" alt="Jad Haddad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" rel="noopener noreferrer" href="https://jadhaddad.com/#contact">
+    <img align="left" alt="Jad Haddad | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/gmail.svg" />
+</a>
 
 <br />
 <br />
@@ -17,23 +22,43 @@ I'm a computer engineering student at the University of Ottawa.
 **Languages and Tools:**  
 <details>
   <summary>:zap: Software Dev</summary>
-    <a href="https://www.python.org/">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.python.org/">
         <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
     </a>
-    [<img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/svg/226/226777.svg" />][java]
-    [<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][golang]
-    [<img align="left" alt="Racket" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/racket/racket.png" />][racket]
-    [<img align="left" alt="Prolog" width="26px" src="https://avatars0.githubusercontent.com/u/6884283?s=200&v=4" />][prolog]
+    <a target="_blank" rel="noopener noreferrer" href="https://www.oracle.com/java/">
+        <img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/svg/226/226777.svg" />
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://golang.org/">
+        <img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://racket-lang.org/">
+        <img align="left" alt="Racket" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/racket/racket.png" />
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.swi-prolog.org/">
+        <img align="left" alt="Prolog" width="26px" src="https://avatars0.githubusercontent.com/u/6884283?s=200&v=4" />
+    </a>
     <br />
     <br />
-    [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][code]
-    [<img align="left" alt="Visual Studio Code" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/eclipse-icon.png" />][eclipse]
-    [<img align="left" alt="Sublime" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/sublimetext.svg" />][sublime]
+    <a target="_blank" rel="noopener noreferrer" href="https://code.visualstudio.com/">
+        <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.eclipse.org/">
+        <img align="left" alt="Eclipse" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/eclipse-icon.png" />
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.sublimetext.com/">
+        <img align="left" alt="Sublime" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/sublimetext.svg" />
+    </a>
     <br />
     <br />
-    [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-    [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-    [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linux]
+    <a target="_blank" rel="noopener noreferrer" href="https://git-scm.com/">
+        <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/">
+        <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+    </a>
+    <a target="_blank" rel="noopener noreferrer" href="https://getfedora.org/">
+        <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+    </a>
 </details>
 <details>
   <summary>📱: App Dev</summary>
@@ -59,22 +84,3 @@ I'm a computer engineering student at the University of Ottawa.
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhaddad01&layout=compact" />
 </a>
-
-
-[website]: https://jadhaddad.com
-[linkedin]: https://www.linkedin.com/in/jadhaddad01/
-[mail]: https://jadhaddad.com/#contact
-
-<!--[python]: https://www.python.org/-->
-[java]: https://www.oracle.com/java/
-[golang]: https://golang.org/
-[racket]: https://racket-lang.org/
-[prolog]: https://www.swi-prolog.org/
-
-[code]: https://code.visualstudio.com/
-[eclipse]: https://www.eclipse.org/
-[sublime]: https://www.sublimetext.com/
-
-[git]: https://git-scm.com/
-[github]: https://github.com/
-[linux]: https://getfedora.org/
