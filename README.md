@@ -17,7 +17,7 @@ I'm a computer engineering student at the University of Ottawa.
 **Languages and Tools:**  
 <details>
   <summary>:zap: Software Dev</summary>
-    [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+    <img align="left" href="https://www.python.org/" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
     [<img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/svg/226/226777.svg" />][java]
     [<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][golang]
     [<img align="left" alt="Racket" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/racket/racket.png" />][racket]
@@ -63,7 +63,7 @@ I'm a computer engineering student at the University of Ottawa.
 [linkedin]: https://www.linkedin.com/in/jadhaddad01/
 [mail]: https://jadhaddad.com/#contact
 
-[python]: https://www.python.org/
+<!--[python]: https://www.python.org/-->
 [java]: https://www.oracle.com/java/
 [golang]: https://golang.org/
 [racket]: https://racket-lang.org/
