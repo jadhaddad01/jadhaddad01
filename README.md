@@ -17,7 +17,23 @@ I'm a computer engineering student at the University of Ottawa.
 **Languages and Tools:**  
 <details>
   <summary>:zap: Software Dev</summary>
-
+  [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+  [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
+  [<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][golang]
+  [<img align="left" alt="Racket" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/racket/racket.png" />][racket]
+  [<img align="left" alt="Prolog" width="26px" src="https://avatars0.githubusercontent.com/u/6884283?s=200&v=4" />][prolog]
+  <!-- space -->
+  <img align="left" alt="space" width="26px" src="" />
+  <!-- IDEs -->
+  [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][code]
+  [<img align="left" alt="Visual Studio Code" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/eclipse-icon.png" />][eclipse]
+  [<img align="left" alt="Sublime" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/sublimetext.svg" />][sublime]
+  <!-- space -->
+  <img align="left" alt="space" width="26px" src="" />
+  <!-- Misc -->
+  [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+  [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+  [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linux]
 </details>
 <details>
   <summary>📱: App Dev</summary>
@@ -48,3 +64,17 @@ I'm a computer engineering student at the University of Ottawa.
 [website]: https://jadhaddad.com
 [linkedin]: https://www.linkedin.com/in/jadhaddad01/
 [mail]: https://jadhaddad.com/#contact
+
+[python]: https://www.python.org/
+[java]: https://www.oracle.com/java/
+[golang]: https://golang.org/
+[racket]: https://racket-lang.org/
+[prolog]: https://www.swi-prolog.org/
+
+[code]: https://code.visualstudio.com/
+[eclipse]: https://www.eclipse.org/
+[sublime]: https://www.sublimetext.com/
+
+[git]: https://git-scm.com/
+[github]: https://github.com/
+[linux]: https://getfedora.org/
