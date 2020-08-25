@@ -81,11 +81,23 @@ I'm a computer engineering student at the University of Ottawa.
 </details>
 <details>
   <summary>💻: Web Dev</summary>
-
+    <a href="https://en.wikipedia.org/wiki/HTML5">
+        <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">
+        <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+    </a>
+    <br />
 </details>
 <details>
   <summary>🎮: Game Dev</summary>
-
+    <a href="https://unity.com/">
+        <img align="left" alt="Unity" width="26px" src="https://fadigeorge.files.wordpress.com/2010/02/unity_01.jpg" />
+    </a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+        <img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
+    </a>
+    <br />
 </details>
 
 ---
