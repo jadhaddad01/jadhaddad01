@@ -102,7 +102,7 @@ I'm a computer engineering student at the University of Ottawa.
 
 ---
 
-*NOTE: Top languages do not indicate my skill level in these languages, but they are metrics for the percentage of code written on github*
+<!-- *NOTE: Top languages do not indicate my skill level in these languages, but they are metrics for the percentage of code written on github* -->
 
 <a href="https://github.com/jadhaddad01?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jadhaddad01&show_icons=true&include_all_commits=true" alt="Jad's github stats" />
