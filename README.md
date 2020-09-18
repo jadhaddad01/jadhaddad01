@@ -14,10 +14,10 @@
 
 I'm a computer engineering student at the University of Ottawa.
 
-- 🔭 I’m currently working on a [Morse Code Translator](https://github.com/jadhaddad01/MorseCodeTranslation)
+- 🔭 I’m currently working on a [Flappy Bird AI](https://github.com/jadhaddad01/FlappyBirdAI)
 - 🌱 I’m currently learning Flutter & Dart
 - 🥅 My goal this year is to contribute to Open Source projects
-- 👨‍💻 Actively looking for Web Dev or App Dev internships
+- 👨‍💻 Actively looking for 2021 summer internships
 
 **Languages and Tools:**  
 <details>
