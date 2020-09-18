@@ -1,12 +1,12 @@
 ### Hi there, I'm [Jad!](https://jadhaddad.com) 👋
 <a href="https://jadhaddad.com">
-    <img align="left" alt="jadhaddad.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+    <img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jadhaddad01/">
-    <img align="left" alt="Jad Haddad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://jadhaddad.com/#contact">
-    <img align="left" alt="Jad Haddad | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/gmail.svg" />
+    <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/gmail.svg" />
 </a>
 
 <br />
@@ -23,79 +23,79 @@ I'm a computer engineering student at the University of Ottawa.
 <details>
   <summary>:zap: Software Dev</summary>
     <a href="https://www.python.org/">
-        <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+        <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
     </a>
     <a href="https://www.oracle.com/java/">
-        <img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/svg/226/226777.svg" />
+        <img align="left" width="26px" src="https://image.flaticon.com/icons/svg/226/226777.svg" />
     </a>
     <a href="https://golang.org/">
-        <img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+        <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
     </a>
     <a href="https://racket-lang.org/">
-        <img align="left" alt="Racket" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/racket/racket.png" />
+        <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/racket/racket.png" />
     </a>
     <a href="https://www.swi-prolog.org/">
-        <img align="left" alt="Prolog" width="26px" src="https://avatars0.githubusercontent.com/u/6884283?s=200&v=4" />
+        <img align="left" width="26px" src="https://avatars0.githubusercontent.com/u/6884283?s=200&v=4" />
     </a>
     <br />
     <br />
     <a href="https://code.visualstudio.com/">
-        <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+        <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
     </a>
     <a href="https://www.eclipse.org/">
-        <img align="left" alt="Eclipse" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/eclipse-icon.png" />
+        <img align="left" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/eclipse-icon.png" />
     </a>
     <a href="https://www.sublimetext.com/">
-        <img align="left" alt="Sublime" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/sublimetext.svg" />
+        <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/sublimetext.svg" />
     </a>
     <br />
     <br />
     <a href="https://git-scm.com/">
-        <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+        <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
     </a>
     <a href="https://github.com/">
-        <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+        <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
     </a>
     <a href="https://getfedora.org/">
-        <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+        <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
     </a>
     <br />
 </details>
 <details>
-  <summary>📱: App Dev</summary>
+  <summary>:iphone: App Dev</summary>
     <a href="https://flutter.dev/">
-        <img align="left" alt="Flutter" width="26px" src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4" />
+        <img align="left" width="26px" src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4" />
     </a>
     <a href="https://developer.android.com/studio">
-        <img align="left" alt="Android Studio" width="26px" src="https://i.stack.imgur.com/9E2Gd.png" />
+        <img align="left" width="26px" src="https://i.stack.imgur.com/9E2Gd.png" />
     </a>
     <br />
     <br />
     <a href="https://dart.dev/">
-        <img align="left" alt="Dart" width="26px" src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G_400x400.jpg" />
+        <img align="left" width="26px" src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G_400x400.jpg" />
     </a>
     <a href="https://www.oracle.com/java/">
-        <img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/svg/226/226777.svg" />
+        <img align="left" width="26px" src="https://image.flaticon.com/icons/svg/226/226777.svg" />
     </a>
     <br />
 </details>
 <details>
-  <summary>💻: Web Dev</summary>
+  <summary>:desktop_computer: Web Dev</summary>
     <a href="https://en.wikipedia.org/wiki/HTML5">
-        <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+        <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
     </a>
     <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">
-        <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+        <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
     </a>
     <br />
 </details>
 <details>
-  <summary>🎮: Game Dev</summary>
+  <summary>:video_game: Game Dev</summary>
     <a href="https://unity.com/">
-        <img align="left" alt="Unity" width="26px" src="https://fadigeorge.files.wordpress.com/2010/02/unity_01.jpg" />
+        <img align="left" width="26px" src="https://fadigeorge.files.wordpress.com/2010/02/unity_01.jpg" />
     </a>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-        <img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
+        <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
     </a>
     <br />
 </details>
@@ -105,7 +105,7 @@ I'm a computer engineering student at the University of Ottawa.
 <!-- *NOTE: Top languages do not indicate my skill level in these languages, but they are metrics for the percentage of code written on github* -->
 
 <a href="https://github.com/jadhaddad01?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jadhaddad01&show_icons=true&include_all_commits=true" alt="Jad's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jadhaddad01&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/jadhaddad01?tab=repositories">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
