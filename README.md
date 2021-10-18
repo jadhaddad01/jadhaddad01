@@ -14,7 +14,7 @@ I'm a computer engineering student at the University of Ottawa.
 - 🔭 I’m currently working on a [Snake AI](https://github.com/jadhaddad01/SnakeAI)
 - 🌱 I’m currently learning Flutter & Dart
 - 🥅 My goal this year is to contribute to Open Source projects
-- 👨‍💻 Actively looking for 2021 summer internships
+- 👨‍💻 Actively looking for 2022 Entry-level employment
 
 **Languages and Tools:**  
 <details>
